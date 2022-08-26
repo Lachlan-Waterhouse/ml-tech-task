@@ -6,7 +6,7 @@ We have provided the application skeleton in which you will implement the follow
 
 1. CRUD apis and logic for task lists. All operations should persist or read data from the MongoDB instance
     - Create a task for a logged in user, append it to their list of tasks
-    - Read the all the task lists that are associated with the orgranisation the user is in
+    - Read the all the task lists that are associated with the organisation the user is in
     - Update a task in the list for the logged in user. Users can only update tasks that they own
     - Delete tasks from the list for the logged in user
 2. A web frontend using a javascript library or framework of your choosing. The web frontend should contain:
